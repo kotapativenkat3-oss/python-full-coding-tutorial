@@ -135,9 +135,13 @@
 #     print(f"the value of b is:{b}")
 # swapping(a,b)
 
-s={2,5,6,3,1,8}
-print(s)
-s.add(9)
-print(s)
-s.remove(5)
-print(s)
+# s={2,5,6,3,1,8}
+# print(s)
+# s.add(9)
+# print(s)
+# s.remove(5)
+# print(s)
+
+a=5
+b=6
+print(a+b)
